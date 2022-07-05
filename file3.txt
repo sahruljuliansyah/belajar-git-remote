@@ -1,2 +1,3 @@
 ini file3.txt
 tambahan file3
+fitur 3
