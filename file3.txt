@@ -1,2 +1,0 @@
-menambah file3.txt 
-tambah baris file3.txt
