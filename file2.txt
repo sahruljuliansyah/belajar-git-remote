@@ -2,3 +2,4 @@ menambah file2.txt
 tambah baris file2.txt
 fitur2
 fitur a
+fitur c
